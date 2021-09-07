@@ -1,1 +1,3 @@
 Hola, mi nombre es Daniel
+
+Tengo 38 años y estoy estudiando para ser Fullstack developer
